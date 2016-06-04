@@ -1,0 +1,58 @@
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	}
+
+
+h1 {
+    font-family: Helvetica, sans-serif;
+    font-size: 2.4rem;
+    color: #505d63;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+h2 {
+	font-family:Helvetica, sans-serif;
+	font-size: 1.5rem;
+	color:#505d63;
+	font-weight:bold;
+	margin-bottom:20px;
+	}
+.header {
+	width: 98%;
+	margin:0 auto;
+	position: relative;
+	padding-top:20px;
+}
+#header_wrapper {
+	background-image:url("photos/texture.jpg");
+	background-repeat:repeat;
+	width:100%;
+}
+	
+#logo_name {
+	float:left;
+	margin: 20px 0 20px 0;
+}
+.user_bio {
+
+	float: left;
+	margin: 20px 0px 20px 0px;
+}
